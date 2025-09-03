@@ -5,17 +5,8 @@
   <h2> My Cybersecurity Projects:</h2>
 
 - <b>Kennesaw State University Master's Program</b>
+  - [Configuring an Ubuntu Virtual Desktop with Amazon Workspaces](https://docs.google.com/document/d/1KdF9GraLpbChQQmm9MRxBhfjaL3nnhqM1el60V_r8IA/edit?usp=sharing)
   - [EC2-to-S3 Access Using IAM Roles](https://docs.google.com/document/d/1K3ujrB6-GpwdTnFe5YP28y6vvpTPHYbS3j-KTobY9tU/edit?usp=sharing)
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
   - []()
 
  <h2> Other Projects:</h2>
