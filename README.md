@@ -18,8 +18,8 @@
   - []()
   - []()
 
- <h2> Personal Projects:</h2>
+ <h2> Other Projects:</h2>
  
- - <b>Cybersecurity Masterclass</b>
-   - []()
+ - <b></b>
+   - [Work Smarter, Not Harder (Mini-thesis research)](https://docs.google.com/document/d/1B7BtAjSzzTg-mT0pF0j7BBxFiBiPW2WBFtPTFh2ps_o/edit?usp=sharing)
    - []()
