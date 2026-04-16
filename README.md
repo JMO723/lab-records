@@ -1,5 +1,5 @@
 <h1>Hello, I'm Junaid Mohammed! <br/> 
-  <h2>A.A.S in Cybersecurity ; B.S. in Information Technology (2026)</h2>
+  <h2>B.S. in Information Technology; A.A.S in Cybersecurity (2026)</h2>
 
 
   <h2> My IT/Cybersecurity Projects:</h2>
