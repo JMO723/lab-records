@@ -11,9 +11,10 @@
 
 - <b>Kennesaw State University Bachelor's in Information Security</b>
   - [Analyzing a Request for Proposal](https://docs.google.com/document/d/17XK8Yi5wKIIKChuwW3IiwHK2HeRglOvkatdb_JIvXN0/edit?usp=sharing)
+  - [Creating an Entity-Relationship Diagram with DIA Tool](https://docs.google.com/document/d/1LpWQtvqOMIJKkc9ThPWcexAqG-xvRLbZAUDAL9hR8t4/edit?usp=sharing)
 
  <h2> Other Projects:</h2>
  
  <b></b>
    - [Work Smarter, Not Harder (Mini-thesis research)](https://docs.google.com/document/d/1B7BtAjSzzTg-mT0pF0j7BBxFiBiPW2WBFtPTFh2ps_o/edit?usp=sharing)
-   - [Creating an Entity-Relationship Diagram with DIA Tool](https://docs.google.com/document/d/1LpWQtvqOMIJKkc9ThPWcexAqG-xvRLbZAUDAL9hR8t4/edit?usp=sharing)
+   
